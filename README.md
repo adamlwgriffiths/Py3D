@@ -17,10 +17,26 @@ git clone git@github.com:adamlwgriffiths/Py3D.git
 cd Py3D
 git submodule init
 git submodule update
-./postactivate
 pip install -r requirements.txt
 ```
 
-If you are using virtualenv, you can copy 'postactivate' to your project's bin/ directory.
+Using Virtualenv
+----------------
+
+Copy 'postactivate' to your project's bin/ directory.
 This will cause it to be run every time you 'work on' your project.
+
+```
+cd Py3D
+cp postactivate ../bin
+```
+
+Not using Virtualenv
+--------------------
+Run the following commands from the project root. This will set your $PYTHONPATH variable for you.
+
+```
+cd Py3D
+./setup_path.sh
+```
 
