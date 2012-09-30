@@ -1,0 +1,12 @@
+[submodule "pygly"]
+	path = pygly
+	url = git@github.com:adamlwgriffiths/PyGLy.git
+[submodule "pyrr"]
+	path = pyrr
+	url = git@github.com:adamlwgriffiths/Pyrr.git
+[submodule "pymesh"]
+	path = pymesh
+	url = git@github.com:adamlwgriffiths/PyMesh.git
+[submodule "pyglet"]
+	path = pyglet
+	url = git@github.com:adamlwgriffiths/Pyglet.git
