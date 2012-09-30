@@ -30,6 +30,7 @@ This will cause it to be run every time you 'work on' your project.
 cd Py3D
 cp postactivate ../bin
 ```
+Then de-activate and re-activate the virtual environment project.
 
 Not using Virtualenv
 --------------------
