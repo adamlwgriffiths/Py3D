@@ -8,6 +8,7 @@ This includes
    * [PyGLy](https://github.com/adamlwgriffiths/PyGLy)
    * [Pyrr](https://github.com/adamlwgriffiths/Pyrr)
    * [Pymesh](https://github.com/adamlwgriffiths/PyMesh)
+   * [Razorback](https://github.com/adamlwgriffiths/Razorback)
 
 Installation
 ------------

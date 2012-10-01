@@ -10,3 +10,6 @@
 [submodule "pyglet"]
 	path = pyglet
 	url = git@github.com:adamlwgriffiths/Pyglet.git
+[submodule "razorback"]
+	path = razorback
+	url = git@github.com:adamlwgriffiths/Razorback.git
