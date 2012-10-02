@@ -39,7 +39,7 @@ Run the following commands from the project root. This will set your $PYTHONPATH
 
 ```
 cd Py3D
-./setup_path.sh
+source setup_path.sh
 ```
 
 Checking that it worked

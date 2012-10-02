@@ -1,9 +1,10 @@
 #!/bin/bash
 
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
 # this is a script for users without virtualenv
-export PYTHONPATH=$PWD/src:$PYTHONPATH
-export PYTHONPATH=$PWD/src/pygly:$PYTHONPATH
-export PYTHONPATH=$PWD/src/pyrr:$PYTHONPATH
-export PYTHONPATH=$PWD/src/pymesh:$PYTHONPATH
-export PYTHONPATH=$PWD/src/razorback:$PYTHONPATH
-export PYTHONPATH=$PWD/src/pyglet:$PYTHONPATH
+export PYTHONPATH=$DIR/pygly:$PYTHONPATH
+export PYTHONPATH=$DIR/pyrr:$PYTHONPATH
+export PYTHONPATH=$DIR/pymesh:$PYTHONPATH
+export PYTHONPATH=$DIR/razorback:$PYTHONPATH
+export PYTHONPATH=$DIR/pyglet:$PYTHONPATH
