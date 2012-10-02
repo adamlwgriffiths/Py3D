@@ -1,0 +1,15 @@
+[submodule "contrib/pyglet"]
+	path = contrib/pyglet
+	url = git@github.com:adamlwgriffiths/Pyglet.git
+[submodule "contrib/pyrr"]
+	path = contrib/pyrr
+	url = git@github.com:adamlwgriffiths/Pyrr.git
+[submodule "contrib/pymesh"]
+	path = contrib/pymesh
+	url = git@github.com:adamlwgriffiths/PyMesh.git
+[submodule "contrib/razorback"]
+	path = contrib/razorback
+	url = git@github.com:adamlwgriffiths/Razorback.git
+[submodule "contrib/pygly"]
+	path = contrib/pygly
+	url = git@github.com:adamlwgriffiths/PyGLy.git

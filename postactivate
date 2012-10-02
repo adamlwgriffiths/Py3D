@@ -1,9 +1,4 @@
 #!/bin/bash
 # This hook is run after this virtualenv is activated.
 
-export PYTHONPATH=$WORKON_HOME/py3d/src:$PYTHONPATH
-export PYTHONPATH=$WORKON_HOME/py3d/src/pygly:$PYTHONPATH
-export PYTHONPATH=$WORKON_HOME/py3d/src/pyrr:$PYTHONPATH
-export PYTHONPATH=$WORKON_HOME/py3d/src/pymesh:$PYTHONPATH
-export PYTHONPATH=$WORKON_HOME/py3d/src/razorback:$PYTHONPATH
-export PYTHONPATH=$WORKON_HOME/py3d/src/pyglet:$PYTHONPATH
+export PYTHONPATH=$WORKON_HOME/py3d/src
