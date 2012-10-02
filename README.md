@@ -47,8 +47,7 @@ Checking that it worked
 
 Run some examples in PyGLy!
 ```
-cd pygly
-python examples/core/simple/main.py
+python pygly/pygly/examples/core/simple/main.py
 ```
 If your graphics card does not support OpenGL 3+, use the examples found in examples/legacy.
 Most examples have both a core and legacy version.
